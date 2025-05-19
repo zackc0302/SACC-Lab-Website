@@ -1,5 +1,5 @@
 # Laboratory Website for Shih's Lab @ NYCU
-
+Link: https://shih.lab.nycu.edu.tw/
 ## Overview
 This project is an undergraduate project aimed at helping construct a splendid website for **Shih's Lab** at **National Yang Ming Chiao Tung University (NYCU)**.
 
@@ -18,7 +18,7 @@ It is built using **Node.js** and is currently under active development.
 - Cloudflare Tunnel (for deployment)
 
 ## Status
-🚧 Still developing.  
+Still developing.  
 Stay tuned for updates!
 
 ## Author
