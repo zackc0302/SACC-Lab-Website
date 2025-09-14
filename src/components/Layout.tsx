@@ -39,6 +39,7 @@ function Navbar() {
           <Link href="/members" className={navItemClass}>Students</Link>
           <Link href="/publications" className={navItemClass}>Publications</Link>
           <Link href="/announcements" className={navItemClass}>Courses</Link>
+          <Link href="/labservice" className={navItemClass} onClick={() => setIsOpen(false)}>Lab Service</Link>
           <ThemeToggle />
         </div>
       </div>
@@ -51,6 +52,7 @@ function Navbar() {
           <Link href="/members" className={navItemClass} onClick={() => setIsOpen(false)}>Students</Link>
           <Link href="/publications" className={navItemClass} onClick={() => setIsOpen(false)}>Publications</Link>
           <Link href="/announcements" className={navItemClass} onClick={() => setIsOpen(false)}>Courses</Link>
+          <Link href="/labservice" className={navItemClass} onClick={() => setIsOpen(false)}>Lab Service</Link>
           <ThemeToggle />
         </div>
       )}
